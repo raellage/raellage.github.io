@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-components-tags-page-index-js","path":"/blog/tags/website/","result":{"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/hello-world/"},"frontmatter":{"title":"Hello Word!"}}}]}},"pageContext":{"tag":"website"}}}
